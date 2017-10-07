@@ -1,4 +1,4 @@
-# BacteriaData
+# Grading Students Program
 
 Program for processing grades for students. 
 
